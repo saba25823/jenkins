@@ -1,6 +1,6 @@
 public class Samplename{
-    public static void main(string[] args){
+    public static void main(String[] args){
         String name ="samplename";
-        Systrm.out.println("hello,my name is " + name);
+        System.out.println("hello,my name is " + name);
     }
 }
